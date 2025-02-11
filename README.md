@@ -23,7 +23,7 @@ Below is a brief overview of the key notebooks available in this repository:
 ### 🔹 **Genomic & Clinical Data Analysis**
 - **`Copy_of_Nat_2024_Regression_Analysis.ipynb`**: Regression analysis on biological datasets.
 - **`Copy_of_Natesh__growth_maturation_tf_colab.ipynb`**: Examining transcription factor correlation with growth and maturation.
-- **`Copy_of_VascuLogic_Model_2.ipynb`**: Clinical model developed for vascular biology applications.
+- **`Copy_of_VascuLogic_Model_2.ipynb`**: Clinical information query from fda api applications.
 
 ### 🔹 **Object-Oriented Programming (OOP) & Utilities**
 - **`OOP_introduction.ipynb`**: Introductory guide to OOP concepts with Python.
