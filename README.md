@@ -44,7 +44,7 @@ This repository primarily utilizes:
 - **TensorFlow / PyTorch** (for deep learning applications)
 - **scikit-learn** (for classical machine learning models)
 - **Graph Neural Networks (GNNs)** (via PyTorch Geometric)
-- **Google Colab** (as the main computational environment)
+- **Google Colab** (as the main computational environment, but have also tried Dask on Mac Silicon (M2pro) in a few cases out of curiosity)
 
 ---
 
