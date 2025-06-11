@@ -27,12 +27,12 @@ Below is a brief overview of the key notebooks available in this repository:
 - **`PyTorch_Workflow.ipynb`**: Workflow for PyTorch-based deep learning models in bioinformatics.
 - **`Positional_Encodings.ipynb`**: Exploring positional encoding in transformer architectures.
 
-### 🔹 **Genomic & Clinical Data Analysis**
+###  **Genomic & Clinical Data Analysis**
 - **`Copy_of_Nat_2024_Regression_Analysis.ipynb`**: Regression analysis on biological datasets.
 - **`Copy_of_Natesh__growth_maturation_tf_colab.ipynb`**: Examining transcription factor correlation with growth and maturation.
 - **`Copy_of_VascuLogic_Model_2.ipynb`**: Clinical information query from fda api applications.
 
-### 🔹 **Object-Oriented Programming (OOP) & Utilities**
+###  **Object-Oriented Programming (OOP) & Utilities**
 - **`OOP_introduction.ipynb`**: Introductory guide to OOP concepts with Python.
 - **`Bioinformatic_Tools_Hard_Coded_Python.ipynb`**: Collection of hard-coded bioinformatics utilities in Python.
 
